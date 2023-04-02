@@ -8,7 +8,7 @@
   },
   "scripts": {
     "start": "node build/app.js",
-    "build": "npx tsc"
+    "build": "tsup src"
   },
   "author": "",
   "license": "ISC",

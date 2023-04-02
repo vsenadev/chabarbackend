@@ -4,10 +4,10 @@
   "description": "api for chabar",
   "main": "index.js",
   "engines": {
-    "node": "14.x"
+    "node": "18"
   },
   "scripts": {
-    "start": "node src/app.ts",
+    "start": "node build/app.js",
     "build": "npx tsc"
   },
   "author": "",
